@@ -1,0 +1,12 @@
+{
+  "name": "vue-next-learn",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "rollup scripts/dev.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
